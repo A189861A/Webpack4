@@ -1,0 +1,10 @@
+{
+  "plugins": {
+    "autoprefixer": {},
+    "cssnano": {},
+    "postcss-pxtorem": {
+      "rootValue": 75,
+      "propList": ["*"]
+    }
+  }
+}
